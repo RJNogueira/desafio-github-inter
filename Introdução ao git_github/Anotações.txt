@@ -1,0 +1,27 @@
+Link para baixar git: https://git-scm.com/downloads
+
+Comandos iniciais do Git/GitHub:
+
+Windows:
+-cd                Possibilita navegar entre as pastas listadas pelo comando dir. Usando cd .. volta um nível de pasta
+-dir               Lista os diretórios contidos na pasta em que estamos situados
+-mkdir             Cria pastas dentro do diretório em que estamos
+-del/rmdir         Remove todo o diretório criado pelo mkdir ou algum que deseje remover usando as flags /S /Q
+-cls               Limpa a tela do terminal
+-TAB               Auto completa a palavra
+
+Linux
+-cd                Possibilita navegar entre as pastas listadas pelo comando ls. Usando cd .. volta um nível de pasta
+-ls                Lista os diretórios contidos na pasta em que estamos situados
+-mkdir             Cria pastas dentro do diretório em que estamos
+-rm-rf             Remove todo o diretório criado pelo mkdir ou algum que deseje remover
+- clear/ctrl+l     Limpa a tela do termina
+-sudo su           Libera a permissão para cirar pastas dentro do linux
+-ls -a             Mostra arquivos ocultos
+
+
+Comando usando terminal do git:
+
+-git init                         Inicia o git para gerenciar e versionar o código
+-git config --global user.email   Configura o email do autor do commit
+-git config --global user.name    Configura o usuário do commit
